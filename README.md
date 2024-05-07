@@ -36,6 +36,7 @@ cd Vencord
 Install dependencies:
 
 ```shell
+corepack enable
 pnpm install --frozen-lockfile
 ```
 
